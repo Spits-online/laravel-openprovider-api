@@ -56,8 +56,8 @@ Before installing this package, ensure your system meets the following requireme
 
 ## Configuration
 
-OPENPROVIDER_USERNAME="ToolboxDomainAuthentication"
-OPENPROVIDER_PASSWORD="BfWKTLT8RVJGoK5ol7bRRA!eYQVZ8bas8ugiV"
+OPENPROVIDER_USERNAME="{{username}}"
+OPENPROVIDER_PASSWORD="{{password}}"
 
 The `config/openprovider-api.php` file contains all configurable options, including:
 
